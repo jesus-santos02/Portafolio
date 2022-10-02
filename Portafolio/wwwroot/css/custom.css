@@ -1,0 +1,55 @@
+﻿img {
+    max-width: 100%;
+    height: auto;
+}
+
+.profile {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 50%
+}
+
+.welcome {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.welcome h1 {
+    margin-bottom: 1rem;
+}
+
+.welcome p {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 1.25rem;
+}
+
+.text-header {
+    font-weight: bold;
+}
+
+.container-list {
+    margin-top: -105px;
+}
+
+.list {
+    box-shadow: 0 5px 5px 0 gray;
+}
+
+.list-left {
+    border-radius: 15px 0 0 15px;
+}
+
+.list-right {
+    border-radius: 0 15px 15px 0;
+}
+
+.skill li {
+    list-style: none;
+    padding-left: 0;
+}
+
+.skill i {
+    color: #0d6efd;
+    font-size: 50px;
+}
